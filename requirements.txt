@@ -19,7 +19,7 @@ pandas
 impyute==0.0.8
 sdv==1.4.0
 pyod==1.0.6
-missingno==0.5.1
+missingno==0.5.2
 opentsne
 
 # --------- hydra --------- #
